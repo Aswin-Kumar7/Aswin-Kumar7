@@ -66,10 +66,6 @@ const aswin = {
 <img width="49%" src="https://streak-stats.demolab.com?user=Aswin-Kumar7&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-Kumar7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-</div>
-
 ---
 
 
