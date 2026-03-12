@@ -90,11 +90,3 @@ const aswin = {
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Aswin-Kumar7/Aswin-Kumar7/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-
-
----
-
-<div align="center">
-  <sub>Visitors: <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Aswin-Kumar7&icon=2&color=1" /></a></sub>
-</div>
