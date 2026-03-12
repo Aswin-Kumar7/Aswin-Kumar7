@@ -63,7 +63,7 @@ const aswin = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aswin-Kumar7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Aswin-Kumar7&theme=dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Aswin-Kumar7&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
