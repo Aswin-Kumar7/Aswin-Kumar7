@@ -1,138 +1,89 @@
 <div align="center">
 
-# Hi, I'm Aswin Kumar 👋  
-### Full Stack & Mobile Developer
+<img src="./name.svg" width="285" alt="Aswin Kumar"/>
 
-🚀 Building scalable web, mobile & AI-powered applications  
+**Full-Stack & Mobile Developer** &nbsp;·&nbsp; building web, mobile & AI-powered apps
 
-<br/>
+[email](mailto:aswinkumar@duck.com) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/aswinkumar7) &nbsp;·&nbsp;
+[github](https://github.com/Aswin-Kumar7)
 
-<img src="https://komarev.com/ghpvc/?username=Aswin-Kumar7&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-&nbsp;
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## 🧑‍💻 About Me
+> Full-stack + mobile developer. I ship production-ready apps and learn fast.
 
-- 💻 Full Stack + Mobile Developer  
-- ⚡ Skilled in **React, Next.js, Flutter, Node.js**  
-- 🧠 Interested in **AI systems, real-time applications, and scalable architectures**  
-- 🚀 Building **production-ready applications with modern tech stacks**  
-- 📫 Reach me: **aswinkumar@duck.com**
+I build fast, test on real users, and keep the architecture clean. My core is
+full-stack and cross-platform mobile (Flutter & React Native), with a backend
+focus on scalable, secure services. Lately I'm leaning into cloud & DevOps —
+going deeper on AWS — and I build with AI where it helps: LLMs, RAG, and
+real-time pipelines.
 
----
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-## 💼 What I Bring
+<samp>**Languages**&nbsp;&nbsp; typescript &nbsp; javascript &nbsp; python &nbsp; java &nbsp; dart</samp><br>
+<samp>**Frontend**&nbsp;&nbsp;&nbsp; react &nbsp; next.js &nbsp; tailwind &nbsp; vite</samp><br>
+<samp>**Mobile**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flutter &nbsp; react native</samp><br>
+<samp>**Backend**&nbsp;&nbsp;&nbsp;&nbsp; node &nbsp; express &nbsp; nestjs &nbsp; fastapi &nbsp; flask &nbsp; graphql</samp><br>
+<samp>**Data**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; postgres &nbsp; mongodb &nbsp; redis</samp><br>
+<samp>**Cloud**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aws &nbsp; azure &nbsp; docker &nbsp; gh-actions</samp>
 
-- 🧠 Strong **system design & full-stack architecture**
-- ⚡ Experience with **AI (LLMs, RAG, real-time pipelines)**
-- 📱 Cross-platform development (**Web + Mobile**)
-- 🔐 Focus on **security, scalability, and performance**
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
----
+**RoadSOS** &nbsp;·&nbsp; <samp>flutter, ai, on-device ml</samp><br>
+Emergency roadside-SOS platform for faster incident response. Winner at the IIT
+Madras BIMSTEC Hackathon, [recognized by MoRTH, Govt. of India](https://x.com/MORTHIndia/status/2084919840222114297).
 
-## 🛠️ Tech Stack
+**[FactifyAI](https://github.com/Aswin-Kumar7/FactifyAI)** &nbsp;·&nbsp; <samp>python, gemini, manifest v3</samp><br>
+Fake-news detection for Indian vernacular languages — browser extension, source
+validation, and OCR + reverse-image verification. Winner (1st) at the Innovate
+and Build Hackathon.
+
+**[Supply-Sense](https://github.com/Aswin-Kumar7/Supply-Sense-Cognizant)** &nbsp;·&nbsp; <samp>react, fastapi, aws bedrock</samp><br>
+AI platform that helps Indian retailers prevent stockouts — supplier-risk scoring,
+shortage forecasts, and mitigations via a LangGraph multi-agent system.
+
+**[AuraAI](https://github.com/Aswin-Kumar7/AuraAI)** &nbsp;·&nbsp; <samp>typescript, fastapi, llm</samp><br>
+Real-time AI copilot for telecom call-center agents — live transcription,
+sentiment, and smart suggestions over WebSockets.
+
+**[traveloop](https://github.com/Aswin-Kumar7/traveloop)** &nbsp;·&nbsp; <samp>typescript</samp><br>
+End-to-end travel planning — trips, day-wise itineraries, checklists, and a
+community to share journeys.
+
+**[transitops](https://github.com/Aswin-Kumar7/transitops)** &nbsp;·&nbsp; <samp>typescript</samp><br>
+Full-stack transport operations platform for the modern fleet depot.
+
+**[AIRO](https://kasparro-airo.vercel.app/)** &nbsp;·&nbsp; <samp>typescript</samp><br>
+Makes a Shopify store visible to AI shopping agents before competitors do.
+
+<img src="./hd-hackathons.svg" width="620" alt="hackathons"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,python,dart&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,flutter&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,docker,githubactions&theme=dark" />
+<img src="./hackathons.svg" width="620" alt="Hackathon participations"/>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 Aura AI — Real-Time Call Center Copilot  
-🔗 https://github.com/Aswin-Kumar7/AuraAI  
-
-- Built an **AI-powered real-time assistant** for call center agents  
-- Implemented **live transcription, sentiment analysis, and smart suggestions**
-- Designed **low-latency streaming system** using WebSockets & FastAPI  
-- Integrated **LLaMA + RAG (Pinecone)** for contextual responses  
-- Developed **multi-tenant dashboards with analytics & compliance tracking**  
-
----
-
-### 📰 FactifyAI — AI Fake News Detection  
-🔗 https://github.com/Aswin-Kumar7/FactifyAI  
-
-- Developed a **fake news detection platform** with browser extension  
-- Supports **10+ Indian languages** with regional source validation  
-- Integrated **Gemini AI + multi-source APIs** for credibility scoring  
-- Built **image verification pipeline (OCR + reverse search)**  
-
----
-
-### 🍴 KORE — Smart Food Ordering System  
-🔗 https://github.com/Aswin-Kumar7/kore  
-
-- Built a **full-stack food ordering application**  
-- Implemented **JWT + Email OTP authentication system**  
-- Developed **cart, order tracking, and admin dashboard**  
-- Designed clean UI using Tailwind CSS  
-
----
-
-## 📊 GitHub Stats
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Aswin-Kumar7&theme=tokyonight&hide_border=true" />
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
----
+<img src="./hd-connect.svg" width="620" alt="connect"/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-Kumar7&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aswin-Kumar7/Aswin-Kumar7/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:aswinkumar@duck.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aswinkumar7">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## ⚡ What Makes Me Different
-
-- 🚀 Build **real-world, production-level applications**
-- 🧩 Focus on **clean architecture & scalability**
-- 🔥 Combine **AI + full-stack + mobile development**
-- 🎯 Consistent builder & fast learner  
-
----
-
-⭐ If you like my work, consider following or starring a repo!
+<samp>email</samp> &nbsp; [aswinkumar@duck.com](mailto:aswinkumar@duck.com)
+&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+<samp>linkedin</samp> &nbsp; [aswinkumar7](https://linkedin.com/in/aswinkumar7)
+&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+<samp>github</samp> &nbsp; [Aswin-Kumar7](https://github.com/Aswin-Kumar7)
