@@ -22,6 +22,8 @@ focus on scalable, secure services. Lately I'm leaning into cloud & DevOps —
 going deeper on AWS — and I build with AI where it helps: LLMs, RAG, and
 real-time pipelines.
 
+A few repositories are private due to ongoing events and signed NDAs.
+
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
 <samp>**Languages**&nbsp;&nbsp; typescript &nbsp; javascript &nbsp; python &nbsp; java &nbsp; dart</samp><br>
@@ -35,7 +37,7 @@ real-time pipelines.
 
 **RoadSOS** &nbsp;·&nbsp; <samp>flutter, ai, on-device ml</samp><br>
 Emergency roadside-SOS platform for faster incident response. Winner at the IIT
-Madras BIMSTEC Hackathon, [recognized by MoRTH, Govt. of India](https://x.com/MORTHIndia/status/2084919840222114297).
+Madras BIMSTEC Hackathon, [recognized by MoRTH, Govt. of India](https://x.com/MORTHIndia/status/2084919840222114297). **(Repository is private due to an NDA.)**
 
 **[FactifyAI](https://github.com/Aswin-Kumar7/FactifyAI)** &nbsp;·&nbsp; <samp>python, gemini, manifest v3</samp><br>
 Fake-news detection for Indian vernacular languages — browser extension, source
