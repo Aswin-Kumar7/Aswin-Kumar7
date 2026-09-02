@@ -22,8 +22,8 @@ focus on scalable, secure services. Lately I'm leaning into cloud & DevOps —
 going deeper on AWS — and I build with AI where it helps: LLMs, RAG, and
 real-time pipelines.
 
-**A few repositories are private due to ongoing events and signed NDAs.
-**
+**A few repositories are private due to ongoing events and signed NDAs.**
+
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
 <samp>**Languages**&nbsp;&nbsp; typescript &nbsp; javascript &nbsp; python &nbsp; java &nbsp; dart</samp><br>
