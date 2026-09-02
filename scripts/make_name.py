@@ -21,10 +21,10 @@ import generate_stats as g
 
 TEXT = os.environ.get("NAME_TEXT", "Aswin Kumar")
 OUT = os.environ.get("OUT_DIR", "..")
-FONT = os.environ.get("NAME_FONT", r"C:\Windows\Fonts\corbel.ttf")
-FS = float(os.environ.get("NAME_FS", "44"))
-LS = float(os.environ.get("NAME_LS", "2"))
-STROKE = float(os.environ.get("NAME_STROKE", "0.45"))  # a hair of faux-weight
+FONT = os.environ.get("NAME_FONT", r"C:\Windows\Fonts\consola.ttf")
+FS = float(os.environ.get("NAME_FS", "42"))
+LS = float(os.environ.get("NAME_LS", "2.5"))
+STROKE = float(os.environ.get("NAME_STROKE", "0.35"))  # a hair of faux-weight
 
 
 def subset_face(path, text):

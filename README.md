@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./name.svg" width="285" alt="Aswin Kumar"/>
+<img src="./name.svg" width="300" alt="Aswin Kumar"/>
 
 **Full-Stack & Mobile Developer** &nbsp;·&nbsp; building web, mobile & AI-powered apps
 
@@ -87,3 +87,9 @@ Makes a Shopify store visible to AI shopping agents before competitors do.
 <samp>linkedin</samp> &nbsp; [aswinkumar7](https://linkedin.com/in/aswinkumar7)
 &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
 <samp>github</samp> &nbsp; [Aswin-Kumar7](https://github.com/Aswin-Kumar7)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aswin-Kumar7&style=flat-square&color=6e7681&label=views" alt="profile views"/>
+
+</div>

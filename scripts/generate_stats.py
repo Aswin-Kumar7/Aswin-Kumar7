@@ -28,12 +28,15 @@ from datetime import date, datetime, timedelta, timezone
 
 API = "https://api.github.com/graphql"
 
-# Two things are pinned for determinism, both learned the hard way:
-#  * the contribution window, to whole UTC days — otherwise "the past year" is
-#    measured from request time and days drift between week buckets, moving the
-#    sparkline a fraction of a pixel and committing noise every night;
-#  * privacy: PUBLIC on repositories — otherwise a personal token sees private
-#    repos and a workflow token doesn't, so language totals disagree.
+# The contribution window is pinned to whole UTC days — otherwise "the past
+# year" is measured from request time and days drift between week buckets,
+# moving the sparkline a fraction of a pixel and committing noise every night.
+#
+# Repositories are NOT filtered to public: language totals include private repos
+# too (so e.g. Dart-only private work still shows up). This means the token must
+# be able to see those private repos — the default workflow GITHUB_TOKEN cannot,
+# so the Action prefers a personal-access-token secret (STATS_TOKEN) when set.
+# Without it, only public repos are counted and the numbers still render.
 QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
@@ -43,8 +46,7 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
         weeks { contributionDays { contributionCount date weekday } }
       }
     }
-    repositories(first: 100, ownerAffiliations: OWNER, isFork: false,
-                 privacy: PUBLIC) {
+    repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
       nodes {
         languages(first: 12, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }

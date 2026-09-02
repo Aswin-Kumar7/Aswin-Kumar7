@@ -25,7 +25,9 @@ jobs:
 
       - name: Check contributions and redraw if changed
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Prefer a PAT (STATS_TOKEN) so language totals and contributions
+          # include private repos; fall back to the built-in token (public only).
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate_stats.py
 
