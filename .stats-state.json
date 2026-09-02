@@ -1,0 +1,96 @@
+{
+  "active": 86,
+  "best_week": 93,
+  "by_repo": [
+    [
+      "TypeScript",
+      12
+    ],
+    [
+      "Python",
+      3
+    ],
+    [
+      "HTML",
+      2
+    ],
+    [
+      "JavaScript",
+      2
+    ],
+    [
+      "Dart",
+      1
+    ]
+  ],
+  "by_size": [
+    [
+      "TypeScript",
+      7223821
+    ],
+    [
+      "Python",
+      1302519
+    ],
+    [
+      "Dart",
+      1147776
+    ],
+    [
+      "JavaScript",
+      950289
+    ],
+    [
+      "HTML",
+      739985
+    ]
+  ],
+  "current": 10,
+  "hackathons": [
+    {
+      "event": "IIT Madras \u00b7 BIMSTEC Hackathon",
+      "project": "RoadSOS",
+      "result": "Winner \u00b7 1st",
+      "year": "2026"
+    },
+    {
+      "event": "Innovate and Build Hackathon",
+      "project": "FactifyAI",
+      "result": "Winner \u00b7 1st",
+      "year": "2025"
+    },
+    {
+      "event": "Cognizant Technoverse",
+      "project": "Supply-Sense",
+      "result": "National Finalist",
+      "year": "2026"
+    },
+    {
+      "event": "AIM '25 Industry Hackathon",
+      "project": "AuraAI",
+      "result": "Runner up",
+      "year": "2025"
+    },
+    {
+      "event": "Odoo x Kahe Hackathon",
+      "project": "traveloop",
+      "result": "Finalist",
+      "year": "2026"
+    },
+    {
+      "event": "Odoo Hackathon",
+      "project": "transitops",
+      "result": "Finalist",
+      "year": "2026"
+    },
+    {
+      "event": "Kasparro Hackathon",
+      "project": "AIRO",
+      "result": "Participant",
+      "year": "2026"
+    }
+  ],
+  "last_day": "2026-09-02",
+  "longest": 10,
+  "total": 583
+}
