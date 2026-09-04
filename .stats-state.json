@@ -4,15 +4,15 @@
   "by_repo": [
     [
       "TypeScript",
-      12
+      11
+    ],
+    [
+      "HTML",
+      3
     ],
     [
       "Python",
       3
-    ],
-    [
-      "HTML",
-      2
     ],
     [
       "JavaScript",
@@ -26,7 +26,11 @@
   "by_size": [
     [
       "TypeScript",
-      7250518
+      7284634
+    ],
+    [
+      "HTML",
+      3529941
     ],
     [
       "Python",
@@ -39,10 +43,6 @@
     [
       "JavaScript",
       950289
-    ],
-    [
-      "HTML",
-      740300
     ]
   ],
   "current": 11,
@@ -92,5 +92,5 @@
   ],
   "last_day": "2026-09-03",
   "longest": 11,
-  "total": 585
+  "total": 588
 }
