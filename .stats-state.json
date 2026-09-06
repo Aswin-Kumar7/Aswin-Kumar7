@@ -1,18 +1,18 @@
 {
-  "active": 87,
+  "active": 89,
   "best_week": 93,
   "by_repo": [
     [
       "TypeScript",
-      11
-    ],
-    [
-      "HTML",
-      3
+      12
     ],
     [
       "Python",
       3
+    ],
+    [
+      "HTML",
+      2
     ],
     [
       "JavaScript",
@@ -26,15 +26,11 @@
   "by_size": [
     [
       "TypeScript",
-      7284634
-    ],
-    [
-      "HTML",
-      3529941
+      7472277
     ],
     [
       "Python",
-      1302519
+      1342694
     ],
     [
       "Dart",
@@ -42,10 +38,14 @@
     ],
     [
       "JavaScript",
-      950289
+      951153
+    ],
+    [
+      "HTML",
+      741290
     ]
   ],
-  "current": 0,
+  "current": 13,
   "hackathons": [
     {
       "event": "IIT Madras \u00b7 BIMSTEC Hackathon",
@@ -90,7 +90,7 @@
       "year": "2026"
     }
   ],
-  "last_day": "2026-09-03",
-  "longest": 11,
-  "total": 588
+  "last_day": "2026-09-05",
+  "longest": 13,
+  "total": 602
 }
