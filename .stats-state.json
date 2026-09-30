@@ -8,7 +8,7 @@
     ],
     [
       "Python",
-      3
+      4
     ],
     [
       "HTML",
@@ -26,26 +26,26 @@
   "by_size": [
     [
       "TypeScript",
-      7766563
+      7978759
     ],
     [
       "Python",
-      1354941
+      3735739
     ],
     [
       "Dart",
-      1147776
+      2293888
     ],
     [
       "JavaScript",
-      1040472
+      1041077
     ],
     [
       "HTML",
       751641
     ]
   ],
-  "current": 1,
+  "current": 0,
   "hackathons": [
     {
       "event": "IIT Madras \u00b7 BIMSTEC Hackathon",
