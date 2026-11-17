@@ -1,5 +1,5 @@
 {
-  "active": 104,
+  "active": 105,
   "best_week": 169,
   "by_repo": [
     [
@@ -26,7 +26,7 @@
   "by_size": [
     [
       "TypeScript",
-      8807876
+      8741381
     ],
     [
       "Python",
@@ -38,14 +38,14 @@
     ],
     [
       "JavaScript",
-      1089451
+      1091482
     ],
     [
       "HTML",
-      752394
+      746252
     ]
   ],
-  "current": 0,
+  "current": 1,
   "hackathons": [
     {
       "event": "IIT Madras \u00b7 BIMSTEC Hackathon",
@@ -90,7 +90,7 @@
       "year": "2026"
     }
   ],
-  "last_day": "2026-10-31",
+  "last_day": "2026-11-17",
   "longest": 13,
-  "total": 891
+  "total": 893
 }
